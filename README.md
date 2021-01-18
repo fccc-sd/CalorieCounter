@@ -6,14 +6,14 @@ A pic of the assignment and required images are included in the lesson plan fold
 You will be evaluated on the following:
 
 FORM:
--Form Layout matches example
--Clicking images adds to displayed total
--Reset button resets total
--Access Key for exit button	
+- Form Layout matches example
+- Clicking images adds to displayed total
+- Reset button resets total
+- Access Key for exit button	
 
 CODE:
--Item calories uses named constants
-	--Using proper conventions
--Total calories stored in a private field
--Format/Readability/Organization
--Comments/Documentation						
+- Item calories uses named constants
+	- - Using proper conventions
+- Total calories stored in a private field
+- Format/Readability/Organization
+- Comments/Documentation						
