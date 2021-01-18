@@ -13,7 +13,7 @@ FORM:
 
 CODE:
 - Item calories uses named constants
-	- - Using proper conventions
+	- Using proper conventions
 - Total calories stored in a private field
 - Format/Readability/Organization
 - Comments/Documentation						
