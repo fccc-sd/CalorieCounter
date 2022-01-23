@@ -11,7 +11,7 @@ the total calories should be zero. Each time the user clicks one of the PictureB
 fruit should be added to the toal calories, and the total calories should be updated in the display. When
 the user clicks the *Reset* button, the total calories should be reset to zero.
 
-
+![App Screenshot](ScreenshotCalorieCounter.png)
 
 ### Evaluation Criteria
 
